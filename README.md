@@ -1,4 +1,9 @@
 # ProyectoFinal
+paso1: ejecutar el .bat y esperar a que se instale el ejecutable(esto puede tardar unos minutos)
+
+paso2: buscar la direccion: ProyectoFinalProgra2\lwjgl3\build\libs
+
+paso3: ejecutar el archivo .jar (nota: se necesita una version actual de java) 
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
